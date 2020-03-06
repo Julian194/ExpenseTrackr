@@ -1,6 +1,6 @@
 {
-  "short_name": "Expanse Trackr",
-  "name": "Web site to track your income and expanses",
+  "short_name": "Expense Trackr",
+  "name": "Web site to track your income and expenses",
   "icons": [
     {
       "src": "favicon.ico",
